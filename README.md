@@ -2,7 +2,7 @@
 
 #  This project used for Semantic Search When you use word like "Deep Learning" I'll get for you the articles with the highest similarity score. 
 
-__Keyword Extraction__: Keyword extraction can be tricky. Different techniques like TFIDF, TF, and YAKE have their strengths and weaknesses. It can be challenging to choose 
+__Keyword Extraction__: Keyword extraction can be tricky. Different techniques like TF-IDF, TF, and YAKE have their strengths and weaknesses. It can be challenging to choose 
 the right technique or combination of techniques for a particular dataset.
 
 #  My dataset is medium  articles about machine and deep learning 
